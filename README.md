@@ -1,6 +1,6 @@
 # Fire_Island_Erosion
 
-Within this repository, six files can be found:
+Within this repository, seven files can be found:
 1. The "Percent_erosion_deposition.ipynb" file produces a stacked bar graph showing the percent of pixels across Fire Island experiencing erosion or deposition annually.
 2. The "DEM_histogram.ipynb" file produces a grouped histogram showing the distribution of elevation across Fire Island over a range of years.
 3. The "Slope_histogram.ipynb" file produces a grouped histogram showing the distribution of slope across Fire Island over a range of years.
